@@ -4,7 +4,7 @@
 
 body {
     font-family: 'Cagliostro', sans-serif;
-    color: #444;
+    color: #333;
     margin: 0;
 }
 
@@ -19,7 +19,7 @@ h1 {
 }
 
 h2 {
-    font-size: 2.25rem;
+    font-size: 1.8rem;
     margin: 0.167em 0;
     color: #894682;
 }
@@ -34,7 +34,6 @@ p {
 }
 
 .subheading {
-    color: #585858;
     font-weight: 900;  
     margin-bottom: 0.5em;
 }
@@ -82,7 +81,7 @@ p {
     min-height: 250px;
     color: #fff;
     background: #a36cbc url("images/dance.jpg");
-    background-blend-mode:darken;
+    background-blend-mode: multiply;
     background-size: cover;
     background-position: top;
     padding-bottom: 1.5em;
