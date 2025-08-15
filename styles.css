@@ -127,8 +127,7 @@ input {
 
 input:focus {
     outline: none;
-    border-color: #894682;
-    background-color: #e6e8ec;
+    border-color: #ceb3cb;
 }
 
 .btn {
@@ -148,7 +147,8 @@ input:focus {
 
 .btn-primary:hover,
 .btn-primary:focus {
-    background-color: #ce8fc8;
+    color: #333;
+    background-color: #ceb3cb;
 }
 
 /* =================
